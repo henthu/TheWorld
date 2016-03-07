@@ -1,0 +1,9 @@
+﻿{
+  "AppSettings": {
+    "SiteEmailAddress": "amine@home.com",
+    "BingKey": ""
+  },
+  "Data": {
+    "WorldContextConnection": "Data Source=dev-1;Database=TheWorldDB;Trusted_Connection=true;MultipleActiveResultsets=true;"
+  }
+}
